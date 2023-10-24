@@ -1,6 +1,20 @@
 node_modules
-semantic
+.env
+*.log
+*.tmp
+.vscode/
+.idea/
+.DS_Store
+yarn.lock
+build/
+dist/
+coverage/
+.history/
+.bash_history
 
 package-lock.json
 package.json
+
+# semantic-ui
+semantic
 semantic.json
